@@ -1,3 +1,6 @@
+board = []
+index = 0
+
 # code your #position_taken? method here!
 
 
