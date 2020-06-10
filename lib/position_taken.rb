@@ -1,5 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-index = 0
+index = num
 
 # code your #position_taken? method here!
 
