@@ -4,5 +4,5 @@ indec = 0
 
 def position_take?(board, index)
     board[index] == " "
-      false
+      true
 end
